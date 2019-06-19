@@ -1,2 +1,16 @@
-﻿  main.cpp
+﻿  IMG.cpp
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(101): warning C4244: *=: преобразование "double" в "int32_t", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(102): warning C4244: *=: преобразование "double" в "int32_t", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(123): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(124): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(125): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(126): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(128): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(129): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(130): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(131): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(138): warning C4244: =: преобразование "float" в "int8_t", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(139): warning C4244: =: преобразование "float" в "int8_t", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(140): warning C4244: =: преобразование "float" в "int8_t", возможна потеря данных
+e:\github\works\intro_lab4\lab4\lab4\img.cpp(114): warning C4101: t: неиспользованная локальная переменная
   lab4.vcxproj -> E:\GitHub\Works\Intro_lab4\lab4\Debug\lab4.exe
